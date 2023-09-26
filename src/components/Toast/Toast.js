@@ -7,6 +7,8 @@ import {
   X,
 } from 'react-feather';
 
+import { ToastContext } from '../ToastProvider/ToastProvider';
+
 import VisuallyHidden from '../VisuallyHidden';
 
 import styles from './Toast.module.css';
